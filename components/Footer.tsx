@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
           </a>
           <a
             className="flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 text-sm"
-            href="https://github.com/minio/minio"
+            href="https://github.com/interspeeddigitalsolutions/minio-app"
             target="_blank"
             rel="noopener noreferrer"
           >
